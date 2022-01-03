@@ -1,0 +1,12 @@
+#tag1{
+  color: rgb(243, 14, 14);
+}
+.auther-name{
+  color: red;
+  background-color: lightyellow;
+}
+#div1{
+  font-family: cursive;
+  background-color: rgba(252, 252, 246, 0.856); border: 5px solid black;
+  border-radius: 10px;
+}
